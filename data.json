@@ -1,0 +1,502 @@
+[
+    {
+        "word_es": "de",
+        "word_en": "of; from",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "la",
+        "word_en": "the; third person feminine singular pronoun",
+        "grammatical_cat": "article, pronoun"
+    },
+    {
+        "word_es": "que",
+        "word_en": "that, which",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "el",
+        "word_en": "the",
+        "grammatical_cat": "article"
+    },
+    {
+        "word_es": "en",
+        "word_en": "in, on",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "y",
+        "word_en": "and",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "a",
+        "word_en": "to, at",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "los",
+        "word_en": "the; third person masculine direct object",
+        "grammatical_cat": "article, pronoun"
+    },
+    {
+        "word_es": "se",
+        "word_en": "self, oneself (reflexive)",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "del",
+        "word_en": "from the",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "las",
+        "word_en": "the; third person feminine direct object",
+        "grammatical_cat": "article, pronoun"
+    },
+    {
+        "word_es": "un",
+        "word_en": "a, an",
+        "grammatical_cat": "article"
+    },
+    {
+        "word_es": "por",
+        "word_en": "by, for, through",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "con",
+        "word_en": "with",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "no",
+        "word_en": "no; not",
+        "grammatical_cat": "adverb"
+    },
+    {
+        "word_es": "una",
+        "word_en": "a, an, one",
+        "grammatical_cat": "article"
+    },
+    {
+        "word_es": "su",
+        "word_en": "his/her/its/your",
+        "grammatical_cat": "possessive"
+    },
+    {
+        "word_es": "para",
+        "word_en": "for, to, in order to",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "es",
+        "word_en": "is",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "al",
+        "word_en": "to the",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "lo",
+        "word_en": "the; third person masculine direct object",
+        "grammatical_cat": "article, pronoun"
+    },
+    {
+        "word_es": "como",
+        "word_en": "like, as",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "más",
+        "word_en": "more",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "o",
+        "word_en": "or",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "pero",
+        "word_en": "but",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "sus",
+        "word_en": "your",
+        "grammatical_cat": "possessive"
+    },
+    {
+        "word_es": "le",
+        "word_en": "third person indirect object",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "ha",
+        "word_en": "he/she/it has [done something]; you (formal) have [done something]",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "me",
+        "word_en": "me",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "si",
+        "word_en": "if, whether",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "sin",
+        "word_en": "without",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "sobre",
+        "word_en": "on top of, over, about",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "este",
+        "word_en": "this",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "ya",
+        "word_en": "already; still",
+        "grammatical_cat": "adverb"
+    },
+    {
+        "word_es": "entre",
+        "word_en": "between",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "cuando",
+        "word_en": "when",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "todo",
+        "word_en": "all, every",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "esta",
+        "word_en": "this",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "ser",
+        "word_en": "to be",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "son",
+        "word_en": "they are, you (pl.) are",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "dos",
+        "word_en": "two",
+        "grammatical_cat": "number"
+    },
+    {
+        "word_es": "también",
+        "word_en": "too, also, as well",
+        "grammatical_cat": "adverb"
+    },
+    {
+        "word_es": "fue",
+        "word_en": "was",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "había",
+        "word_en": "I/he/she/it/there was (or used to be)",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "era",
+        "word_en": "was",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "muy",
+        "word_en": "very",
+        "grammatical_cat": "adverb"
+    },
+    {
+        "word_es": "años",
+        "word_en": "years (masculine)",
+        "grammatical_cat": "noun"
+    },
+    {
+        "word_es": "hasta",
+        "word_en": "until",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "desde",
+        "word_en": "from; since",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "está",
+        "word_en": "is",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "mi",
+        "word_en": "my",
+        "grammatical_cat": "possessive"
+    },
+    {
+        "word_es": "porque",
+        "word_en": "because",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "qué",
+        "word_en": "what?; which?; how adjective",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "sólo",
+        "word_en": "only, solely",
+        "grammatical_cat": "adverb"
+    },
+    {
+        "word_es": "han",
+        "word_en": "they/you (pl.) have [done something]",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "yo",
+        "word_en": "I",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "hay",
+        "word_en": "there is/are",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "vez",
+        "word_en": "time, instance (feminine)",
+        "grammatical_cat": "noun"
+    },
+    {
+        "word_es": "puede",
+        "word_en": "can",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "todos",
+        "word_en": "all; every",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "así",
+        "word_en": "like that",
+        "grammatical_cat": "adverb"
+    },
+    {
+        "word_es": "nos",
+        "word_en": "us",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "ni",
+        "word_en": "neither; nor; no even",
+        "grammatical_cat": "conjunction, adverb"
+    },
+    {
+        "word_es": "parte",
+        "word_en": "part; message (masculine / feminine)",
+        "grammatical_cat": "noun"
+    },
+    {
+        "word_es": "tiene",
+        "word_en": "has",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "él",
+        "word_en": "he, it (masculine)",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "uno",
+        "word_en": "one",
+        "grammatical_cat": "number"
+    },
+    {
+        "word_es": "donde",
+        "word_en": "where",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "bien",
+        "word_en": "fine, well",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "tiempo",
+        "word_en": "time; weather (masculine)",
+        "grammatical_cat": "noun"
+    },
+    {
+        "word_es": "mismo",
+        "word_en": "same",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "ese",
+        "word_en": "that",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "ahora",
+        "word_en": "now",
+        "grammatical_cat": "adverb"
+    },
+    {
+        "word_es": "cada",
+        "word_en": "each; every",
+        "grammatical_cat": "determiner"
+    },
+    {
+        "word_es": "e",
+        "word_en": "and",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "vida",
+        "word_en": "life (feminine)",
+        "grammatical_cat": "noun"
+    },
+    {
+        "word_es": "otro",
+        "word_en": "other, another",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "después",
+        "word_en": "after",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "te",
+        "word_en": "to you, for you; yourself",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "otros",
+        "word_en": "others",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "aunque",
+        "word_en": "though, although, even though",
+        "grammatical_cat": "conjunction"
+    },
+    {
+        "word_es": "esa",
+        "word_en": "that",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "eso",
+        "word_en": "that",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "hace",
+        "word_en": "he/she/it does/makes",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "otra",
+        "word_en": "other; another",
+        "grammatical_cat": "adjective, pronoun"
+    },
+    {
+        "word_es": "gobierno",
+        "word_en": "government (masculine)",
+        "grammatical_cat": "noun"
+    },
+    {
+        "word_es": "tan",
+        "word_en": "so",
+        "grammatical_cat": "adverb"
+    },
+    {
+        "word_es": "durante",
+        "word_en": "during",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "siempre",
+        "word_en": "always",
+        "grammatical_cat": "adverb"
+    },
+    {
+        "word_es": "día",
+        "word_en": "day (masculine)",
+        "grammatical_cat": "noun"
+    },
+    {
+        "word_es": "tanto",
+        "word_en": "so much",
+        "grammatical_cat": "adjective, adverb"
+    },
+    {
+        "word_es": "ella",
+        "word_en": "she, her; it",
+        "grammatical_cat": "pronoun"
+    },
+    {
+        "word_es": "tres",
+        "word_en": "three",
+        "grammatical_cat": "number"
+    },
+    {
+        "word_es": "sí",
+        "word_en": "yes, if; reflexive pronoun",
+        "grammatical_cat": "noun, pronoun"
+    },
+    {
+        "word_es": "dijo",
+        "word_en": "said; told",
+        "grammatical_cat": "verb"
+    },
+    {
+        "word_es": "sido",
+        "word_en": "been",
+        "grammatical_cat": "past participle"
+    },
+    {
+        "word_es": "gran",
+        "word_en": "large, great, big",
+        "grammatical_cat": "adjective"
+    },
+    {
+        "word_es": "país",
+        "word_en": "country (masculine)",
+        "grammatical_cat": "noun"
+    },
+    {
+        "word_es": "según",
+        "word_en": "as; according to",
+        "grammatical_cat": "preposition"
+    },
+    {
+        "word_es": "menos",
+        "word_en": "less; fewer",
+        "grammatical_cat": "adjective"
+    }
+]
